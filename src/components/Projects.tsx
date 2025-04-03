@@ -206,7 +206,7 @@ const Projects = () => {
             href="#contact"
             className="inline-flex items-center px-8 py-4 rounded-full bg-gradient-to-r from-purple-600 to-blue-500 text-white font-medium hover:shadow-xl transform hover:-translate-y-1 transition-all duration-300 text-lg"
           >
-            Let's Work Together
+            Let&apos;s Work Together
             <svg
               className="w-6 h-6 ml-2"
               fill="none"

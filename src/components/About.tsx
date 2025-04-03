@@ -58,7 +58,7 @@ const About = () => {
               While my core strength is in frontend development, I maintain a
               solid foundation in full-stack principles, allowing me to better
               collaborate with backend teams and understand the complete
-              application lifecycle. I've successfully delivered production
+              application lifecycle. I&apos;ve successfully delivered production
               projects like baranie.com and management.baranie.com, showcasing
               my ability to create polished, performant web applications.
             </p>

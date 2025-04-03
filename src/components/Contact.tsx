@@ -65,11 +65,11 @@ const Contact = () => {
             className="space-y-8"
           >
             <h3 className="text-3xl font-semibold bg-gradient-to-r from-purple-600 to-blue-500 text-transparent bg-clip-text">
-              Let's Connect
+              Let&apos;s Connect
             </h3>
             <p className="text-lg text-gray-600 leading-relaxed">
-              I'm always open to discussing new projects, creative ideas, or
-              opportunities to be part of your visions.
+              I&apos;m always open to discussing new projects, creative ideas,
+              or opportunities to be part of your visions.
             </p>
 
             <div className="flex space-x-6">
