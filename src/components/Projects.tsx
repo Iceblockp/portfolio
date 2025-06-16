@@ -93,6 +93,24 @@ const Projects = () => {
       link: "#",
       category: "Web",
     },
+    {
+      title: "Mini Market POS",
+      description:
+        "Mini Market Pos is useful for mini market business. It has a simple and easy to use interface. As it use Index db as a database, there is no need to install any database. It is a simple and easy to use application.",
+      technologies: ["React", "Index db", "TypeScript"],
+      image: "/img/shop-pos.png",
+      link: "https://shop-pos-phi.vercel.app/",
+      category: "Web",
+    },
+    {
+      title: "Wedding Event Planner",
+      description:
+        "Wedding Event Planner is a useful application for wedding event planning. It has a simple and easy to use interface. It shows all the information about the wedding event and love story of the couple.",
+      technologies: ["Next js", "prisma", "TypeScript"],
+      image: "/img/love-story.png",
+      link: "https://love-story-six.vercel.app/",
+      category: "Web",
+    },
   ];
 
   const filteredProjects = projects.filter(
