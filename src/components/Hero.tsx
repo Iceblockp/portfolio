@@ -80,7 +80,7 @@ const Hero = () => {
             <div className="relative w-full h-full rounded-full bg-gradient-to-r from-purple-600 via-purple-500 to-blue-500 p-2">
               <div className="w-full h-full rounded-full bg-white overflow-hidden shadow-2xl">
                 <Image
-                  src="/img/my-photo.png"
+                  src="/img/my-smile.jpg"
                   alt="Profile Photo"
                   fill
                   className="object-cover rounded-full"
