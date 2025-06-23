@@ -25,10 +25,10 @@ const Projects = () => {
       technologies: [
         "Next.js",
         "TypeScript",
-        "Node.js",
-        "AWS RDS",
-        "REST API",
         "Tailwind CSS",
+        "react-hook-form",
+        "shadcn-ui",
+        "react-query",
       ],
       image: "/img/baranie.png",
       link: "https://baranie.com",
@@ -38,14 +38,7 @@ const Projects = () => {
       title: "Baranie User Mobile App",
       description:
         "A user-friendly mobile application for customers to discover, book, and manage beauty services. Features include easy appointment booking, real-time notifications, and service provider reviews.",
-      technologies: [
-        "React Native",
-        "Redux",
-        "Node.js",
-        "AWS DynamoDB",
-        "REST API",
-        "Stripe",
-      ],
+      technologies: ["React Native", "Redux", "expo", "zod"],
       image: "/img/baranie-user.png",
       link: "#",
       category: "Mobile",
@@ -54,14 +47,7 @@ const Projects = () => {
       title: "Baranie Business Mobile App",
       description:
         "A dedicated mobile application for beauty service providers to manage their business operations, including appointment scheduling, client management, and real-time business analytics on-the-go.",
-      technologies: [
-        "React Native",
-        "Redux",
-        "Node.js",
-        "AWS DynamoDB",
-        "REST API",
-        "Stripe",
-      ],
+      technologies: ["React Native", "Redux", "expo", "typescript"],
       image: "/img/baranie-mobile.png",
       link: "#",
       category: "Mobile",
@@ -69,8 +55,16 @@ const Projects = () => {
     {
       title: "Baranie Management System",
       description:
-        "A sophisticated management platform leveraging AWS services and RESTful APIs for robust data management, offering tools for appointment scheduling, customer management, and real-time business analytics.",
-      technologies: ["React", "Node.js", "MongoDB", "Express", "Shadcn UI"],
+        "Baranie Management System is one of big project build with next.js.here is example account to explore and you can also register on your own. eg.acc email: ksl124980@gmail.com/ pass: 123456@PPn",
+      technologies: [
+        "React",
+        "next.js",
+        "Typescript",
+        "Shadcn UI",
+        "react-hook-form",
+        "react-query",
+        "zod",
+      ],
       image: "/img/management-baranie.png",
       link: "https://management.baranie.com",
       category: "Web",
@@ -79,7 +73,7 @@ const Projects = () => {
       title: "Financial Tracker App",
       description:
         "A comprehensive mobile application for personal and business financial management. Features include expense tracking, budget planning, financial analytics, and customizable reporting tools.",
-      technologies: ["React Native", "TypeScript", "Node.js", "MongoDB", "AWS"],
+      technologies: ["React Native", "TypeScript", "Node.js", "AWS"],
       image: "/img/financial-app.png",
       link: "https://apps.apple.com/financial-tracker",
       category: "Mobile",
@@ -94,6 +88,15 @@ const Projects = () => {
       category: "Web",
     },
     {
+      title: "Team Portfolio (standalone)",
+      description:
+        "A standalone team portfolio website showcasing the work of a team of developers. It features a clean and modern design, showcasing the team members&apos; skills and projects .",
+      technologies: ["next.js", "prisma", "TypeScript"],
+      image: "/img/innobytex.png",
+      link: "https://innobytex.com/",
+      category: "Web",
+    },
+    {
       title: "Mini Market POS",
       description:
         "Mini Market Pos is useful for mini market business. It has a simple and easy to use interface. As it use Index db as a database, there is no need to install any database. It is a simple and easy to use application.",
@@ -101,6 +104,30 @@ const Projects = () => {
       image: "/img/shop-pos.png",
       link: "https://shop-pos-phi.vercel.app/",
       category: "Web",
+    },
+    {
+      title: "Home Shop",
+      description:
+        "Home Shop is a useful application for home shopping. It has a simple and easy to use interface. It shows all the information about the home shop and the products of the shop.",
+      technologies: [
+        "Next.js",
+        "prisma",
+        "postgresql",
+        "TypeScript",
+        "react-query",
+      ],
+      image: "/img/home-shop.png",
+      link: "https://housing-online-shop-gray.vercel.app/",
+      category: "Web",
+    },
+    {
+      title: "Home Shop App",
+      description:
+        "Home Shop is a useful application for home shopping. It has a simple and easy to use interface. It shows all the information about the home shop and the products of the shop.",
+      technologies: ["expo", "react native", "react-query", "TypeScript"],
+      image: "/img/home-shop-app.png",
+      link: "https://expo.dev/artifacts/eas/3NCsTe45PfXka6dHUp5aRF.apk",
+      category: "Mobile",
     },
     {
       title: "Wedding Event Planner",
