@@ -40,7 +40,7 @@ const Projects = () => {
         "A user-friendly mobile application for customers to discover, book, and manage beauty services. Features include easy appointment booking, real-time notifications, and service provider reviews.",
       technologies: ["React Native", "Redux", "expo", "zod"],
       image: "/img/baranie-user.png",
-      link: "#",
+      link: "https://expo.dev/artifacts/eas/fTKJhNJsztRZDYKATiGUEq.apk",
       category: "Mobile",
     },
     {
